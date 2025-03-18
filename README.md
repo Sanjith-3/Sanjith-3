@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjith</h1>
+<h1 align="center">Hey There ,I'm Sanjith 👋</h1>
 <h3 align="center">AI Enthusiast</h3>
 
 - 🌱 I’m currently learning **Generative and Agentic AI Frameworks**
