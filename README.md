@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Sanjith 👋</h1>
-<h3 align="center">AI Enthusiast | Exploring the worlds of ML, Deep Learning, Generative AI & Agentic AI</h3>
+<h3 align="center">AI Enthusiast</h3>
 
 - 🌱 Currently learning **Generative AI & Agentic AI Frameworks**  
 - 📝 Writing at [Medium](https://medium.com/@msanjith.ad)  
